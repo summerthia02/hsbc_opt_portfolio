@@ -1,0 +1,59 @@
+,Asset Class ,Fund Type,Fund,CCY,Advanced Ratio ,Beta,CAPM,Sharpe Ratio,SML_Value,Position
+0,Fixed Income,U.S Inv Grade Corporate Bonds,AB American Income,USD,80,1.01,10.0,0.08,10.039,Below
+1,Fixed Income,U.S Inv Grade Corporate Bonds,Schroder Global Credit Income,USD,80,1.21,11.19,0.14,12.018999999999998,Below
+2,Fixed Income,U.S Inv Grade Corporate Bonds,PIMCO Income,USD,80,1.12,9.64,0.25,11.128,Below
+3,Fixed Income,U.S Inv Grade Corporate Bonds,JPMorgan Income,USD,70,0.61,7.8,0.18,6.079,Above
+4,Fixed Income,U.S High Yield Corporate Bonds,BlackRock Dynamic High Income,USD,70,0.99,11.72,0.15,9.841,Above
+5,Fixed Income,U.S High Yield Corporate Bonds,PIMCO Global High Yield Bond,USD,60,0.77,9.05,0.21,7.663,Above
+6,Fixed Income,U.S High Yield Corporate Bonds,Robeco High Yield Bonds,USD,70,0.8,8.87,0.41,7.960000000000001,Above
+7,Fixed Income,U.S High Yield Corporate Bonds,Barings U.S. High Yield Bond,USD,60,0.98,9.82,-1.7,9.741999999999999,Above
+8,Fixed Income,Emerging Markets Sovereign Debt,AXA Global Strategic Bonds,USD,80,0.71,8.93,0.02,7.069,Above
+9,Fixed Income,Emerging Markets Sovereign Debt,HSBC Asian Bond,USD,70,0.78,8.63,-0.31,7.7620000000000005,Above
+10,Fixed Income,Emerging Markets Sovereign Debt,BlackRock Asian Tiger Bond,USD,80,0.89,9.82,-0.19,8.850999999999999,Above
+11,Fixed Income,Emerging Markets Sovereign Debt,HSBC GIF RMB Fixed Income USD,USD,80,0.93,9.29,0.09,9.247,Above
+12,Fixed Income,Emerging Markets Sovereign Debt,BlackRock China Bond USD,USD,75,0.85,8.99,-0.04,8.455,Above
+13,Fixed Income,Emerging Markets Sovereign Debt,Goldman Sachs Emerging Market Debt,USD,70,1.08,10.71,-0.03,10.732000000000001,Below
+14,Fixed Income,Emerging Markets Sovereign Debt,HSBC Asia High Income Bond,USD,80,-0.00037,4.0,-0.4,0.036337,Above
+15,Fixed Income,Emerging Markets Sovereign Debt,JPMorgan Emerging Markets Investment Grade Bond,USD,70,0.87,8.04,0.05,8.652999999999999,Below
+16,Fixed Income,Emerging Markets Local Currency Debt,HSBC GIF RMB Fixed Income RMB,RMB,80,0.89,9.29,-1.98,8.850999999999999,Above
+17,Fixed Income,Emerging Markets Local Currency Debt,BlackRock China Bond RMB,RMB,75,1.19,9.17,0.11,11.821,Below
+18,Fixed Income,Emerging Markets Corporate Bonds,Schroder Asian Asset Income,SGD,70,0.027,4.16,0.3,0.30729999999999996,Above
+19,Fixed Income,Emerging Markets Corporate Bonds,HSBC Asia Multi-Asset High Income,SGD,70,1.02,10.06,-0.61,10.138,Below
+20,Fixed Income,Money Market Securities,HSBC USD Liquidity,USD,90,0.79,8.51,0.17,7.861000000000001,Above
+21,Fixed Income,Money Market Securities,JPM SGD Liquidity,SGD,90,0.22,5.32,0.2,2.218,Above
+22,Fixed Income,Money Market Securities,HSBC Global Money Fund - HKD,HKD,90,-7.9e-05,4.0,-1.59,0.0392179,Above
+23,Equities,U.S Equity,Morgan Stanley US Advantage,USD,70,1.14,10.53,0.15,11.325999999999999,Below
+24,Equities,U.S Equity,JPM US Value,USD,70,0.79,9.64,0.49,7.861000000000001,Above
+25,Equities,U.S Equity,Morgan Stanley Global Quality,USD,70,0.81,8.81,0.59,8.059,Above
+26,Equities,U.S Equity,Wellington Global Quality Growth,USD,70,0.71,9.05,0.49,7.069,Above
+27,Equities,Japanese Equity,Pictet Japanese Equity Opportunities,JPY,70,1.1,10.18,0.22,10.93,Below
+28,Equities,Japanese Equity,Pictet Japanese Equity Opportunities USD(H),USD,70,-0.0006,4.0,0.73,0.03406,Above
+29,Equities,Japanese Equity,Pictet Japanese Equity Opportunities EUR(H),EUR,70,1.26,11.51,0.42,12.514,Below
+30,Equities,AC Asia ex-Japan Equity,JPMorgan ASEAN,USD,70,0.93,9.82,0.09,9.247,Above
+31,Equities,AC Asia ex-Japan Equity,FSSA Asian Equity Plus,USD,70,0.96,9.35,0.15,9.543999999999999,Below
+32,Equities,AC Asia ex-Japan Equity,Wellington Asian Opportunities,USD,70,1.0,10.24,0.14,9.94,Above
+33,Equities,AC Asia ex-Japan Equity,Schroder Asian Equity Yield,USD,70,1.05,10.12,0.16,10.435,Below
+34,Equities,AC Asia ex-Japan Equity,Invesco Asia Consumer Demand,USD,70,1.06,8.16,-0.11,10.534,Below
+35,Equities,AC Asia ex-Japan Equity,Wellington Asian Opportunities,USD,70,1.0,10.24,0.14,9.94,Above
+36,Thematics,Digital Transformation,Janus Henderson Horizon Global Technology Leaders,USD,75,0.89,9.35,0.64,8.850999999999999,Above
+37,Thematics,Digital Transformation,BlackRock Next Generation Technology,USD,70,0.81,9.94,-0.05,8.059,Above
+38,Thematics,Digital Transformation,Pictet Digital (AI),USD,70,0.76,8.4,0.25,7.564,Above
+39,Thematics,Digital Transformation,T.RowePrice Global Technology Equity,USD,70,0.99,10.24,0.29,9.841,Above
+40,Thematics,Digital Transformation,Credit Suisse Global Digital Health Equity,USD,70,0.73,11.13,0.15,7.267,Above
+41,Thematics,Digital Transformation,Credit Suisse Global Robotics Equity,USD,70,0.77,9.7,0.27,7.663,Above
+42,Thematics,Digital Transformation,BNY Mellon Mobility Innovation,USD,70,0.95,10.12,0.38,9.444999999999999,Above
+43,Thematics,Digital Transformation,Neuberger Berman 5G Connectivity,USD,70,1.02,9.52,-0.02,10.138,Below
+44,Thematics,Digital Transformation,Pictet Security,USD,70,0.82,9.88,0.29,8.158,Above
+45,Thematics,Digital Transformation,Wellington Global Health Care Equity,USD,70,0.85,10.18,0.31,8.455,Above
+46,Thematics,Digital Transformation,Janus Henderson Global Life Sciences,USD,70,0.91,10.06,0.51,9.049,Above
+47,Thematics,Digital Transformation,Wellington Asia Technology,USD,70,1.13,9.46,0.38,11.226999999999999,Below
+48,Thematics,Investing in a Sustainable Future (ESG),Schroder Global Sustainable Growth,USD,70,0.75,8.99,0.82,7.465000000000001,Above
+49,Thematics,Investing in a Sustainable Future (ESG),Pictet Global Environmental Opportunities,USD,70,0.94,10.06,0.52,9.345999999999998,Above
+50,Thematics,Investing in a Sustainable Future (ESG),RobecoSAM Sustainable Water Equities USD,USD,70,1.02,10.06,0.53,10.138,Below
+51,Thematics,Investing in a Sustainable Future (ESG),Neuberger Berman Sustainable Asia High Yield,USD,60,1.04,10.18,-0.45,10.336,Below
+52,Thematics,Investing in a Sustainable Future (ESG),BlackRock Sustainable Energy,USD,70,0.85,7.21,0.71,8.455,Below
+53,Thematics,Investing in a Sustainable Future (ESG),Wellington Global Impact,USD,70,0.89,9.94,0.32,8.850999999999999,Above
+54,Thematics,Investing in a Sustainable Future (ESG),Schroder Global Energy Transition,USD,70,0.96,8.22,0.34,9.543999999999999,Below
+55,Thematics,Investing in a Sustainable Future (ESG),BNP Paribas Green Tigers,USD,70,0.0034,10.95,-0.77,0.07366,Above
+56,Thematics,Investing in a Sustainable Future (ESG),HSBC GIF Global Equity Sustainable Healthcare,USD,70,0.73,8.34,-0.82,7.267,Above
+57,Thematics,Investing in a Sustainable Future (ESG),BNP Paribas Climate Impact,USD,70,1.11,10.59,-0.6,11.029,Below
